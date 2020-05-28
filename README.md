@@ -30,7 +30,7 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Generatory dokumentacji, języki tworzenia dokumentacji (np. Markdown)
 
-- Generatory aplikacji (np. webowe, może być jHipster)
+- Generatory aplikacji (np. webowe, może być jHipster) [AO]
 
 - Wirtualne środowiska programistyczne / kontenery: np. Vagrant, Docker
 
